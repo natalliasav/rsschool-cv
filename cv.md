@@ -2,7 +2,6 @@
 
 ## Contact Information
 * **Location**: Minsk, Belarus
-* **Phone**: +375 29 3521530
 * **Email**: natallia.savina17@gmail.com
 * **Discord**: Natallia Savina (@natalliasav)
 
