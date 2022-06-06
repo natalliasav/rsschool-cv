@@ -7,7 +7,7 @@
 * **Discord**: Natallia Savina (@natalliasav)
 
 ## About Me
-I am working as analyst in IT company, and for a long time wanted to try myself in something new. After getting more understanding about different jobs in IT and passing different small courses, I realized that front-end can be that dream job, which I can enjoy from day to day and always learn something new. Hope that I will have enough willpower, motivation and time to finish this course in RS school. That's a great place to start your journey into the frontend world.
+I am working as analyst in IT company, and for a long time wanted to try my hand at something new. After getting more understanding about different jobs in IT and passing different small courses, I realized that front-end can be that dream job, which I can enjoy from day to day and always learn something new. Hope that I will have enough willpower, motivation and time to finish this course in RS school. That's a great place to start your journey in the frontend world.
 
 ## Skills
 * HTML5, CSS3
