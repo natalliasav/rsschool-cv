@@ -1,3 +1,138 @@
 * {
+  scroll-behavior: smooth; 
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
+  text-decoration: none;
+  font-weight: inherit;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: inherit;
+  font-size: 15px;
+}
+
+.container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+header, footer {
+  background-color: #8E9B97;
+  width: 100%;
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link, .github-link {
+  padding: 0 20px;
+  line-height: 50px;
+  text-decoration: none;
+  color: #f4EBDB;
+  transition: 0.5s;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.nav-link:hover {
+  color: #2C4A52;
+  transition: 0.5s;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+  color: #2C4A52;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 15px;
+  color: #537072;
+}
+
+/* .main-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+} */
+
+section {
+  max-width: 70%;
+  padding-bottom: 40px;
+}
+
+main {
+  background-color: #f4EBDB;
+}
+
+.profile-wrapper {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.profile-img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.about-text {
+  text-align: justify;
+  line-height: 20px;
+}
+
+.code-example {
+  font-family: monospace;
+}
+
+.languages-list, .skills-list, .education-list, .contacts-list {
+  padding-left: 15px;
+  line-height: 25px;
+}
+
+.project-link {
+  color: #2C4A52;
+  transition: 0.5s;
+}
+
+.project-link:hover {
+  color: #537072;
+  transition: 0.5s;
+}
+
+.education-item {
+  padding-left: 20px;
+}
+
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+  color: #f4EBDB;
+}
+
+.rs-link {
+  align-self: center;
+}
+
+.github-link:hover {
+  transition: 0.5s;
+  color: #2C4A52;
+}
+
+.rs-logo {
+  width: 130px;
+  height: 30px;
 }
